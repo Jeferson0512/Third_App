@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">ThirdApplication</string>
+
+    <string name="orale">
+        hola
+    </string>
+    <string-array name="nuevo_android">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+
+</resources>
